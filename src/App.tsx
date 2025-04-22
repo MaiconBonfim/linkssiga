@@ -59,22 +59,6 @@ function App() {
       
       </div>
 
-       {/* Tecnologia e Automação */}
-      <div className="w-full max-w-md space-y-4">
-        <h2 className="text-xl font-semibold text-gray-800 mb-4">Tecnologia e Automação</h2>
-
-        <a href="#" className="flex items-center bg-[#E43D33] text-gray-800 p-4 rounded-lg hover:opacity-90 transition-opacity">
-          <img src="/img/bot.png" alt="Chatbot para Empresas" className="w-6 h-6 mr-3" />
-          <span className="font-medium">Chatbot para Empresas</span>
-        </a>
-
-        <a href="#" className="flex items-center bg-[#E43D33] text-black p-4 rounded-lg hover:opacity-90 transition-opacity">
-          <img src="/img/mbot.png" alt="Multiatendimento via WhatsApp" className="w-6 h-6 mr-3" />
-          <span className="font-medium">Multiatendimento via WhatsApp</span>
-        </a>
-
-      </div>
-
       {/* Footer */}
       <footer className="mt-12 text-center text-gray-500 text-sm">
         <p>© 2025 Siga Protegido - Todos os direitos reservados</p>
